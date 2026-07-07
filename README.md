@@ -7,7 +7,7 @@ Built entirely on an asynchronous event-driven architecture using Python and PyQ
 ---
 
 ## 📄 Academic Publication & Documentation
-The comprehensive, 5-page academic paper detailing the underlying mathematical physics, stochastic evaluation metrics, and systems constraints can be found directly in the repository:
+The comprehensive, 3-page academic paper detailing the underlying mathematical physics, stochastic evaluation metrics, and systems constraints can be found directly in the repository:
 * **[Read the Technical Paper (PDF)](./SEEKER_120AM__Advanced_Tactical_Command_Control_Simulation_Architecture.pdf)**[cite: 4]
 * **[Official Scope & Safety Clarification (TXT)](./READMEINFORMATION.txt)**[cite: 2]
 
